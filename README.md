@@ -1,10 +1,7 @@
 # codsoft.task2
 codsoft movie rating task2
-# zic-labs-task2
 
-## Movie Rating Prediction
-
-## Author: KEDHARESHWARA SUBBA REDDY S
+## Author: THARUN V
 
 ## Batch: NOVEMBER
 
